@@ -1,0 +1,72 @@
+Partlist
+
+Exported from Arduino_MEGA_2560-Rev3.brd at 08-12-2013 12:31:04 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part          Value                 Package             Library           Position (mm)         Orientation
+
+ADCH          8x1F-H8.5             1X08                SmartPrj          (82.55 2.54)          R0
+ADCL          8x1F-H8.5             1X08                SmartPrj          (59.69 2.54)          R0
+C1            22p                   C0603-ROUND         SmartPrj          (33.528 14.605)       R270
+C2            100n                  C0603-ROUND         SmartPrj          (14.351 17.653)       R270
+C3            100n                  C0603-ROUND         SmartPrj          (27.94 44.45)         R0
+C4            100n                  C0603-ROUND         SmartPrj          (38.608 7.112)        R0
+C5            100n                  C0603-ROUND         SmartPrj          (58.928 39.37)        R0
+C6            100n                  C0603-ROUND         SmartPrj          (40.045 30.419)       R180
+C7            100n                  C0603-ROUND         SmartPrj          (27.94 18.288)        R0
+C8            100n                  C0603-ROUND         SmartPrj          (12.065 30.988)       R180
+C9            100n                  C0603-ROUND         SmartPrj          (12.065 29.337)       R180
+C10           1u                    C0603-ROUND         SmartPrj          (12.065 42.291)       R180
+C11           100n                  C0603-ROUND         SmartPrj          (24.765 29.337)       R0
+C12           100n                  C0603-ROUND         SmartPrj          (21.59 17.145)        R180
+C13           1u                    C0603-ROUND         SmartPrj          (27.94 21.59)         R0
+C14           22p                   C0603-ROUND         SmartPrj          (15.24 29.337)        R180
+C15           22p                   C0603-ROUND         SmartPrj          (21.59 29.337)        R0
+COMMUNICATION 8x1F-H8.5             1X08                SmartPrj          (77.47 50.8)          R180
+D1            M7                    SMB                 diode             (21.59 2.794)         R180
+D2            CD1206-S01575         MINIMELF            diode             (13.081 46.228)       R90
+D3            CD1206-S01575         MINIMELF            diode             (35.56 14.605)        R90
+F1            MF-MSMF050-2 500mA    L1812               rcl               (4.445 26.67)         R90
+FD1           FIDUCIALMOUNT         FIDUCIA-MOUNT       SmartPrj          (70.8406 38.1922)     R0
+FD2           FIDUCIALMOUNT         FIDUCIA-MOUNT       SmartPrj          (2.667 2.413)         R0
+FD3           FIDUCIALMOUNT         FIDUCIA-MOUNT       SmartPrj          (1.778 38.1)          R0
+FD4           FIDUCIALMOUNT         FIDUCIA-MOUNT       SmartPrj          (50.8 28.3464)        R0
+GROUND                              SJ                  jumper            (10.795 33.02)        MR180
+IC1           NCP1117ST50T3G        SOT223              linear            (8.636 17.78)         R90
+IC3           ATMEGA2560-16AU       TQFP100             SmartPrj          (50.8 28.3464)        R0
+IC4           ATMEGA16U2-MU         MLF32               SmartPrj          (19.939 34.798)       R90
+IC6           LP2985-33DBVR         SOT23-DBV           SmartPrj          (27.94 25.1714)       R180
+IC7           LMV358IDGKR           MSOP08              linear            (18.415 21.336)       R90
+ICSP          3x2M                  2X03                SmartPrj          (64.897 27.94)        R270
+ICSP1         3x2M                  2X03                SmartPrj          (18.288 46.228)       R180
+JP5           2x2M - NM             2X02                SmartPrj          (19.558 41.148)       R90
+JP6           10x1F-H8.5            1X10                SmartPrj          (30.226 50.8)         R0
+L             YELLOW                CHIP-LED0805        led               (27.94 42.164)        R90
+L1            BLM21                 0805                wuerth-elektronik (8.255 45.212)        R180
+ON            GREEN                 CHIP-LED0805        led               (76.2 36.83)          R90
+PC1           47u                   PANASONIC_D         rcl               (18.415 9.144)        R90
+PC2           47u                   PANASONIC_D         rcl               (25.527 9.144)        R90
+POWER         8x1F-H8.5             1X08                SmartPrj          (36.83 2.54)          R0
+PWML          8x1F-H8.5             1X08                SmartPrj          (54.61 50.8)          R180
+R1            1M                    R0603-ROUND         SmartPrj          (40.513 14.605)       R90
+R2            1M                    R0603-ROUND         SmartPrj          (18.415 29.337)       R0
+RESET         TS42031-160R-TR-7260  TS42                SmartPrj          (74.168 27.94)        R90
+RESET-EN                            SJ                  jumper            (27.94 15.748)        R0
+RN1           10K                   CAT16               resistor-dil      (80.645 36.83)        R270
+RN2           22R                   CAY16               resistor-dil      (12.065 37.084)       R90
+RN3           1k                    CAY16               resistor-dil      (27.94 39.37)         R270
+RN4           1k                    CAY16               resistor-dil      (27.94 31.115)        R90
+RN5           10K                   CAT16               resistor-dil      (18.415 16.51)        R90
+RX            YELLOW                CHIP-LED0805        led               (27.94 34.29)         R90
+T1            FDN340P               SOT-23              zetex             (9.144 25.908)        R270
+TX            YELLOW                CHIP-LED0805        led               (27.94 36.576)        R90
+X1            POWERSUPPLY_DC21MMX   POWERSUPPLY_DC-21MM SmartPrj          (5.334 8.382)         R90
+X2            USB-B_TH              PN61729             SmartPrj          (3.81 38.1)           R270
+XIO           18x2F-H8.5            2X18                SmartPrj          (95.25 29.21)         R270
+Y1            CSTCE16M0V53-R0 16MHZ RESONATOR           SmartPrj          (38.354 14.605)       R270
+Y2            16MHz                 QS                  SmartPrj          (18.415 26.035)       R180
+Z1            CG0603MLC-05E         CT/CN0603           varistor          (12.065 34.29)        R0
+Z2            CG0603MLC-05E         CT/CN0603           varistor          (12.065 39.878)       R0
