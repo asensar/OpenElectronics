@@ -247,6 +247,7 @@
 <hole x="107.19" y="2.66" drill="3.2"/>
 <hole x="119.16" y="6.12" drill="2"/>
 <hole x="88.67" y="6.34" drill="2"/>
+<text x="150.09" y="199.97" size="5.08" layer="26" rot="MR0">www.RepRap-India.com</text>
 </plain>
 <libraries>
 <library name="holes">
