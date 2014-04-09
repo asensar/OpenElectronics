@@ -1,0 +1,92 @@
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-B_SilkS.gbo' ----   Mon Mar 03 00:14:21 2014
+
+D11   --> D100
+D13   --> D101
+D15   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-Back.gbl' ----   Mon Mar 03 00:14:22 2014
+
+D11   --> D103
+D12   --> D104
+D13   --> D105
+D14   --> D106
+D15   --> D107
+D16   --> D108
+D17   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-drl_map.pho' ----   Mon Mar 03 00:14:22 2014
+
+D12   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-Edge_Cuts.gbr' ----   Mon Mar 03 00:14:22 2014
+
+D11   --> D111
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-F_Mask.gts' ----   Mon Mar 03 00:14:22 2014
+
+D11   --> D112
+D12   --> D113
+D13   --> D114
+D14   --> D115
+D16   --> D116
+D17   --> D117
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-F_Paste.gtp' ----   Mon Mar 03 00:14:23 2014
+
+D11   --> D118
+D12   --> D119
+D13   --> D120
+D14   --> D121
+D15   --> D122
+D16   --> D123
+D17   --> D124
+D18   --> D125
+D19   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-Front.gtl' ----   Mon Mar 03 00:14:23 2014
+
+D11   --> D127
+D12   --> D128
+D13   --> D129
+D14   --> D130
+D15   --> D131
+D16   --> D132
+D17   --> D133
+D18   --> D134
+D19   --> D135
+D20   --> D136
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-Inner1.gbr' ----   Mon Mar 03 00:14:23 2014
+
+D11   --> D137
+D12   --> D138
+D13   --> D139
+D14   --> D140
+D15   --> D141
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\IceBlueStepstick\gerber0.2\Stepstick_4982-Inner2.gbr' ----   Mon Mar 03 00:14:23 2014
+
+D11   --> D142
+D12   --> D143
+D13   --> D144
+D14   --> D145
+D15   --> D146
+-----------------------------------------------------------------

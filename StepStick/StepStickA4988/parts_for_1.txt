@@ -1,0 +1,33 @@
+Partlist
+
+StepStick : 1.0A
+----------------
+Part     Value          Device           Package     Library        Sheet
+
+C1E      .1uf       , 16V       CAP0402-CAP      0402-CAP    SparkFun       4
+C4E      .22uf      , 16V       CAP0402-CAP      0402-CAP    SparkFun       2
+C3E      4.7uF      , 16V       CAP1206          1206        SparkFun       1
+IC1E     A4988                  A4983            QFN28ET     allegro        1
+J1E      CLONOLU                CLONOLU          CLONOLU     pololu-allegro 1
+S1E      0.2        , 0.25W, 1% RESISTOR         0805        SparkFun       2
+R4E      10k                    RESISTOR0402-RES 0402-RES    SparkFun       1
+R1E      20k                    RESISTOR0402-RES 0402-RES    SparkFun       1
+R2E      100k                   RESISTOR0402-RES 0402-RES    SparkFun       2
+T1E      TRIM-10k               TRIMPOTSMD       TRIMPOT-3MM SparkFun       1
+
+StepStick : 1.5A
+----------------
+Part     Value          Device           Package     Library        Sheet
+
+C1E      .1uf           CAP0402-CAP      0402-CAP    SparkFun       4
+C3E      4.7uF          CAP1206          1206        SparkFun       1
+C4E      .22uf          CAP0402-CAP      0402-CAP    SparkFun       2
+IC1E     A4988          A4983            QFN28ET     allegro        1
+J1E      CLONOLU        CLONOLU          CLONOLU     pololu-allegro 1
+R1E      20k            RESISTOR0402-RES 0402-RES    SparkFun       1
+R2E      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R3E      100k           RESISTOR0402-RES 0402-RES    SparkFun       1
+R4E      10k            RESISTOR0402-RES 0402-RES    SparkFun       1
+S1E      0.2            RESISTOR         0805        SparkFun       1
+S2E      0.2            RESISTOR         0805        SparkFun       1
+T1E      TRIM           TRIMPOTSMD       TRIMPOT-3MM SparkFun       1

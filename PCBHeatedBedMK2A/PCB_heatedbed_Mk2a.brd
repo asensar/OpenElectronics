@@ -248,6 +248,8 @@
 <hole x="119.16" y="6.12" drill="2"/>
 <hole x="88.67" y="6.34" drill="2"/>
 <text x="150.09" y="199.97" size="5.08" layer="26" rot="MR0">www.RepRap-India.com</text>
+<text x="86.87" y="187.88" size="3.81" layer="25">MADE IN INDIA</text>
+<text x="127.85" y="187.62" size="3.81" layer="26" rot="MR0">MADE IN INDIA</text>
 </plain>
 <libraries>
 <library name="holes">

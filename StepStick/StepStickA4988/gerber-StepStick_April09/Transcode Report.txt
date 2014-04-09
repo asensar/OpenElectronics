@@ -1,0 +1,126 @@
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber\stepstick_single.GBO' ----   Mon Apr 07 23:58:42 2014
+
+D10   --> D100
+D11   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber\stepstick_single.GBS' ----   Mon Apr 07 23:58:42 2014
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber\stepstick_single.GTL' ----   Mon Apr 07 23:58:42 2014
+
+D10   --> D103
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+D16   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber\stepstick_single.GTO' ----   Mon Apr 07 23:58:42 2014
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber\stepstick_single.GTP' ----   Mon Apr 07 23:58:42 2014
+
+D10   --> D114
+D11   --> D115
+D12   --> D116
+D13   --> D117
+D14   --> D118
+D15   --> D119
+D16   --> D120
+D17   --> D121
+D18   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber\stepstick_single.GTS' ----   Mon Apr 07 23:58:42 2014
+
+D10   --> D123
+D11   --> D124
+D12   --> D125
+D13   --> D126
+D14   --> D127
+D15   --> D128
+D16   --> D129
+D17   --> D130
+D18   --> D131
+D19   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber-StepStick_April09\stepstick_single.GBO' ----   Tue Apr 08 00:05:34 2014
+
+D10   --> D100
+D11   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber-StepStick_April09\stepstick_single.GBS' ----   Tue Apr 08 00:05:34 2014
+
+D10   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber-StepStick_April09\stepstick_single.GTL' ----   Tue Apr 08 00:05:34 2014
+
+D10   --> D103
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+D16   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber-StepStick_April09\stepstick_single.GTO' ----   Tue Apr 08 00:05:34 2014
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber-StepStick_April09\stepstick_single.GTP' ----   Tue Apr 08 00:05:34 2014
+
+D10   --> D114
+D11   --> D115
+D12   --> D116
+D13   --> D117
+D14   --> D118
+D15   --> D119
+D16   --> D120
+D17   --> D121
+D18   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\aSensar\Git\OpenElectronics\StepStick\StepStickA4988\gerber-StepStick_April09\stepstick_single.GTS' ----   Tue Apr 08 00:05:34 2014
+
+D10   --> D123
+D11   --> D124
+D12   --> D125
+D13   --> D126
+D14   --> D127
+D15   --> D128
+D16   --> D129
+D17   --> D130
+D18   --> D131
+D19   --> D132
+-----------------------------------------------------------------
